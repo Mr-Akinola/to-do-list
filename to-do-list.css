@@ -1842,7 +1842,7 @@
     
     
     .modal-over-container{
-        width: 80%;
+        width: 90%;
         height: auto;
         background-color: #ffffff;
         border-radius: 1rem;
@@ -1964,7 +1964,7 @@
     .today-button{
         height: auto;
         width: fit-content;
-        padding: 0.5rem 1.5rem 0.5rem 1.5rem;
+        padding: 0.5rem 1rem 0.5rem 1rem;
         background-color: #ffffff;
         border-radius: 0.5rem;
         color: #6676EB;
@@ -1981,7 +1981,7 @@
     .tomorrow-button{
         height: auto;
         width: fit-content;
-        padding: 0.5rem 1.5rem 0.5rem 1.5rem;
+        padding: 0.5rem 1rem 0.5rem 1rem;
         background-color: #ffffff;
         border-radius: 0.5rem;
         color: #6676EB;
@@ -1998,7 +1998,7 @@
     .weekend-button{
         height: auto;
         width: fit-content;
-        padding: 0.5rem 1.5rem 0.5rem 1.5rem;
+        padding: 0.5rem 1rem 0.5rem 1rem;
         background-color: #ffffff;
         border-radius: 0.5rem;
         color: #6676EB;
@@ -2499,7 +2499,7 @@
     .today-button{
         height: auto;
         width: fit-content;
-        padding: 0.5rem 0.2rem 0.5rem 0.2rem;
+        padding: 0.5rem 0.8rem 0.5rem 0.8rem;
         background-color: #ffffff;
         border-radius: 0.5rem;
         color: #6676EB;
@@ -2516,7 +2516,7 @@
     .tomorrow-button{
         height: auto;
         width: fit-content;
-        padding: 0.5rem 0.2rem 0.5rem 0.2rem;
+        padding: 0.5rem 0.8rem 0.5rem 0.8rem;
         background-color: #ffffff;
         border-radius: 0.5rem;
         color: #6676EB;
@@ -2533,7 +2533,7 @@
     .weekend-button{
         height: auto;
         width: fit-content;
-        padding: 0.5rem 0.2rem 0.5rem 0.2rem;
+        padding: 0.5rem 0.8rem 0.5rem 0.8rem;
         background-color: #ffffff;
         border-radius: 0.5rem;
         color: #6676EB;
