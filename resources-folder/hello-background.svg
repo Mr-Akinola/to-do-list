@@ -1,0 +1,50 @@
+<svg width="1450" height="240" viewBox="0 0 1450 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_1270_1218)">
+<g clip-path="url(#clip1_1270_1218)">
+<path d="M0 40C0 17.9086 17.9086 0 40 0H1410C1432.09 0 1450 17.9086 1450 40V240H0V40Z" fill="#6676EB"/>
+<line x1="0.00127001" y1="56.3697" x2="1450" y2="59.2911" stroke="white" stroke-opacity="0.09" stroke-width="1.2607"/>
+<line y1="118.291" x2="1450" y2="118.291" stroke="white" stroke-opacity="0.09" stroke-width="1.2607"/>
+<line x1="0.00522382" y1="183.246" x2="1449.99" y2="177.291" stroke="white" stroke-opacity="0.09" stroke-width="1.2607"/>
+<line x1="45.3697" y1="240.002" x2="45.3697" stroke="white" stroke-opacity="0.09" stroke-width="1.2607"/>
+<line x1="104.37" y1="240.002" x2="104.37" stroke="white" stroke-opacity="0.09" stroke-width="1.2607"/>
+<line x1="163.37" y1="240.002" x2="163.37" stroke="white" stroke-opacity="0.09" stroke-width="1.2607"/>
+<line x1="222.37" y1="240.002" x2="222.37" stroke="white" stroke-opacity="0.09" stroke-width="1.2607"/>
+<line x1="281.37" y1="240.002" x2="281.37" stroke="white" stroke-opacity="0.09" stroke-width="1.2607"/>
+<line x1="340.37" y1="240.002" x2="340.37" stroke="white" stroke-opacity="0.09" stroke-width="1.2607"/>
+<line x1="399.37" y1="240.002" x2="399.37" stroke="white" stroke-opacity="0.09" stroke-width="1.2607"/>
+<line x1="458.37" y1="240.002" x2="458.37" stroke="white" stroke-opacity="0.09" stroke-width="1.2607"/>
+<line x1="517.37" y1="240.002" x2="517.37" stroke="white" stroke-opacity="0.09" stroke-width="1.2607"/>
+<line x1="576.37" y1="240.002" x2="576.37" stroke="white" stroke-opacity="0.09" stroke-width="1.2607"/>
+<line x1="635.37" y1="240.002" x2="635.37" stroke="white" stroke-opacity="0.09" stroke-width="1.2607"/>
+<line x1="694.37" y1="240.002" x2="694.37" stroke="white" stroke-opacity="0.09" stroke-width="1.2607"/>
+<line x1="753.37" y1="240.002" x2="753.37" stroke="white" stroke-opacity="0.09" stroke-width="1.2607"/>
+<line x1="812.37" y1="240.002" x2="812.37" stroke="white" stroke-opacity="0.09" stroke-width="1.2607"/>
+<line x1="871.37" y1="240.002" x2="871.37" stroke="white" stroke-opacity="0.09" stroke-width="1.2607"/>
+<line x1="930.37" y1="240.002" x2="930.37" stroke="white" stroke-opacity="0.09" stroke-width="1.2607"/>
+<line x1="989.37" y1="240.002" x2="989.37" stroke="white" stroke-opacity="0.09" stroke-width="1.2607"/>
+<line x1="1048.37" y1="240.002" x2="1048.37" stroke="white" stroke-opacity="0.09" stroke-width="1.2607"/>
+<line x1="1107.37" y1="240.002" x2="1107.37" stroke="white" stroke-opacity="0.09" stroke-width="1.2607"/>
+<line x1="1166.37" y1="240.002" x2="1166.37" stroke="white" stroke-opacity="0.09" stroke-width="1.2607"/>
+<line x1="1225.37" y1="240.002" x2="1225.37" stroke="white" stroke-opacity="0.09" stroke-width="1.2607"/>
+<line x1="1284.37" y1="240.002" x2="1284.37" stroke="white" stroke-opacity="0.09" stroke-width="1.2607"/>
+<line x1="1343.37" y1="240.002" x2="1343.37" stroke="white" stroke-opacity="0.09" stroke-width="1.2607"/>
+<line x1="1402.37" y1="240.002" x2="1402.37" stroke="white" stroke-opacity="0.09" stroke-width="1.2607"/>
+<g filter="url(#filter0_f_1270_1218)">
+<path d="M895.641 60.4911C530.61 82.8264 706.759 75.9328 557.139 169.686C527.604 181.634 486.255 205.918 557.139 207.462C645.744 209.392 670.68 233.106 773.08 231.728C875.48 230.349 960.901 240 1120.07 240C1279.24 240 1210.27 203.05 1295.16 160.034C1380.05 117.018 1333.36 133.012 1310.02 9.75434C1286.67 -113.503 1260.67 38.1559 895.641 60.4911Z" fill="#6676EB"/>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_f_1270_1218" x="423.069" y="-132.931" width="1015.86" height="467.861" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="47.4653" result="effect1_foregroundBlur_1270_1218"/>
+</filter>
+<clipPath id="clip0_1270_1218">
+<path d="M0 24C0 10.7452 10.7452 0 24 0H1426C1439.25 0 1450 10.7452 1450 24V240H0V24Z" fill="white"/>
+</clipPath>
+<clipPath id="clip1_1270_1218">
+<path d="M0 40C0 17.9086 17.9086 0 40 0H1410C1432.09 0 1450 17.9086 1450 40V240H0V40Z" fill="white"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To-do-List-Project</title>
+    <link rel="stylesheet" href="./to-do-list.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" 
+    integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" 
+    crossorigin="anonymous" 
+    referrerpolicy="no-referrer" />
+    
+</head>
+<body>
+
+    <div class="background-container">
+        <div class="Inner-container">
+
+            <div class="upper-inner-container">
+                <div class="background-nav">
+                    <div class="left-nav">
+
+                        <h2>To-Do-List</h2>
+                        <p>Let's help you stay locked in with what's more important</p>
+
+                    </div>
+
+                    <button class="add-task-container" id="add-task-button">Add Task</button>
+                </div>
+
+            </div>
+
+            <div class="lower-inner-container">
+
+                <div class="product-container">
+                    <div class="left-p-container">
+                        <h3>0/0</h3>
+                    </div>
+                    <div class="right-p-container">
+                        <h3>Your Productivity Guide</h3>
+                        <p>Keep your productivity progress on track</p>
+                    </div>
+
+                </div>
+
+                <div class="to-do-list-section" id="to-do-list-section">
+
+                    <!--div class="group-contanier">
+
+                        <div class="three-icons-container">
+                            <div class="complete-icon-c"><img src="./resources-folder/check-complete-icon-new.svg" height="20px"></div>
+                            <div class="edit-icon-c"> <img src="./resources-folder/edit-icon.svg" height="24px"></div>
+                            <div class="delete-icon-c"><img src="./resources-folder/delete-icon.svg" height="24px"></div>
+                        </div>
+    
+                        <div class="task-name-and-description-container">
+                            
+                            <h3>Shopping</h3>
+    
+                            <p>I will be going for different shopping after work and get the necessary things</p>
+                        </div>
+    
+                        <div class="decline-and-Priority-c-s">
+                            <p>Deadline: Today</p>
+                            <p>Priority: High</p>
+                        </div>
+
+                    </div> -->
+
+                   
+
+                </div>
+
+
+            </div>
+
+            <div class="copy-right-container">
+                <img src="./resources-folder/copy-right-icon.svg" height="18px">
+                <p>Design and Crafted by Akinola Oguntade. All right Reserved </p>
+            </div>
+
+        </div>
+
+    </div>
+
+    <div class="modal-overlay-new" id="modal-overlay-new">
+        <div class="modal-over-container">
+            <div class="close-overlay-icon-container">
+                <i class="fa-solid fa-x" id="close-icon-overlay"></i>
+            </div>
+
+            <div class="modal-overlay-title-container">
+                <h3>Add New Task</h3>
+            </div>
+
+            <form class="modal-overlay-form" id="modal-overlay-form">
+                <div class="input-group-task">
+                    <label for="task-name">Task</label>
+                    <input type="text" name="task-name" id="task-name"
+                    placeholder="Enter Task Name">  
+                </div>
+
+                <div class="input-group-task">
+                    <label for="task-description">Task Description</label>
+                    <textarea name="description-of-task" id="task-description" placeholder="Enter Task Description"></textarea>
+                </div>
+
+                <div class="group-button-modal-overlay-container">
+                    <button class="today-button">Today</button>
+                    <button class="tomorrow-button">Tomorrow</button>
+                    <button class="weekend-button">Weekend</button>
+                    <button class="calendar-button"><img src="./resources-folder/calendar-icon.svg" height="18px"></button>
+
+                </div>
+
+                <div class="priority-container">
+                    <p>High Priority</p>
+                    <input type="checkbox" id="checkbox">
+                </div>
+
+                <div class="form-submit-button-container">
+                    <button id="submit-form-button" type="submit">Add Task</button>
+                </div>
+
+
+            </form>
+
+        </div>
+        
+
+
+       
+
+
+
+
+
+
+
+
+    </div>
+
+    <div class="modal-overlay-delete" id="modal-overlay-delete">
+
+        <div class="modal-delete-container">
+          <p>Are you sure you want to delete this task?</p>
+          <div class="delete-buttons">
+            <button id="cancel-delete-btn">Cancel</button>
+            <button id="confirm-delete-btn">Delete</button>
+          </div>
+        </div>
+
+    </div>
+
+
+
+
+
+
+
+
+    <script src="./to-do-list.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
+    
+</body>
+</html>
