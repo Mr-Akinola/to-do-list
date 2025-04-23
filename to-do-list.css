@@ -491,11 +491,12 @@
 }
 
 .delete-buttons button {
-    padding: 0.6rem 1.2rem;
+    padding: 0.6rem 1.4rem;
     border-radius: 0.5rem;
     border: none;
     cursor: pointer;
-    font-weight: 600;
+    font-weight: 500;
+    font-size: 1.1rem;
 }
 
 #cancel-delete-btn {
@@ -506,6 +507,7 @@
 #confirm-delete-btn {
     background-color: #6676EB;
     color: white;
+    
 }
 
 .copy-right-container{
@@ -1022,21 +1024,24 @@
     }
     
     .delete-buttons button {
-        padding: 0.6rem 1.2rem;
+        padding: 0.6rem 1.4rem;
         border-radius: 0.5rem;
         border: none;
         cursor: pointer;
-        font-weight: 600;
+        font-weight: 500;
+        font-size: 1.1rem;
     }
     
     #cancel-delete-btn {
         background-color: #dadefb;
         color: #6676EB;
+        
     }
     
     #confirm-delete-btn {
         background-color: #6676EB;
         color: white;
+        
     }
 
     .copy-right-container{
@@ -1560,11 +1565,12 @@
     }
     
     .delete-buttons button {
-        padding: 0.6rem 1.2rem;
+        padding: 0.6rem 1.4rem;
         border-radius: 0.5rem;
         border: none;
         cursor: pointer;
-        font-weight: 600;
+        font-weight: 500;
+        font-size: 1.1rem;
     }
     
     #cancel-delete-btn {
@@ -2092,11 +2098,12 @@
     }
     
     .delete-buttons button {
-        padding: 0.6rem 1.2rem;
+        padding: 0.6rem 1.4rem;
         border-radius: 0.5rem;
         border: none;
         cursor: pointer;
-        font-weight: 600;
+        font-weight: 500;
+        font-size: 1.1rem;
     }
     
     #cancel-delete-btn {
@@ -2628,11 +2635,12 @@
     }
     
     .delete-buttons button {
-        padding: 0.6rem 1.2rem;
+        padding: 0.6rem 1.4rem;
         border-radius: 0.5rem;
         border: none;
         cursor: pointer;
-        font-weight: 600;
+        font-weight: 500;
+        font-size: 1.1rem;
     }
     
     #cancel-delete-btn {
