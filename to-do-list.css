@@ -245,7 +245,7 @@
     height: auto;
     background-color: #ffffff;
     border-radius: 1rem;
-    padding: 2rem;
+    padding: 2rem 2rem 2rem 2rem;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -776,7 +776,7 @@
         height: auto;
         background-color: #ffffff;
         border-radius: 1rem;
-        padding: 2rem;
+        padding: 2rem 2rem 2rem 2rem;
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -1314,7 +1314,7 @@
         height: auto;
         background-color: #ffffff;
         border-radius: 1rem;
-        padding: 2rem;
+        padding: 2rem 2rem 2rem 2rem;
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -1846,7 +1846,7 @@
         height: auto;
         background-color: #ffffff;
         border-radius: 1rem;
-        padding: 2rem;
+        padding: 2rem 1rem 2rem 1rem;
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -2377,11 +2377,11 @@
     
     
     .modal-over-container{
-        width: 98%;
+        width: 99%;
         height: auto;
         background-color: #ffffff;
         border-radius: 1rem;
-        padding: 1.4rem 0.8rem 1.4rem 0.8rem;
+        padding: 1.4rem 0.7rem 1.4rem 0.7rem;
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -2499,7 +2499,7 @@
     .today-button{
         height: auto;
         width: fit-content;
-        padding: 0.5rem 0.8rem 0.5rem 0.8rem;
+        padding: 0.5rem 0.5rem 0.5rem 0.5rem;
         background-color: #ffffff;
         border-radius: 0.5rem;
         color: #6676EB;
@@ -2516,7 +2516,7 @@
     .tomorrow-button{
         height: auto;
         width: fit-content;
-        padding: 0.5rem 0.8rem 0.5rem 0.8rem;
+        padding: 0.5rem 0.5rem 0.5rem 0.5rem;
         background-color: #ffffff;
         border-radius: 0.5rem;
         color: #6676EB;
@@ -2533,7 +2533,7 @@
     .weekend-button{
         height: auto;
         width: fit-content;
-        padding: 0.5rem 0.8rem 0.5rem 0.8rem;
+        padding: 0.5rem 0.5rem 0.5rem 0.5rem;
         background-color: #ffffff;
         border-radius: 0.5rem;
         color: #6676EB;
@@ -2549,12 +2549,13 @@
     .calendar-button{
         height: auto;
         width: fit-content;
-        padding: 0.4rem 0.8rem 0.4rem 0.8rem;
+        padding: 0.3rem 0.8rem 0.3rem 0.8rem;
         background-color: #ffffff;
         border-radius: 0.5rem;
         border: 1px solid #6676EB;
         outline: none;
         cursor: pointer;
+        
     }
     
     .priority-container{
